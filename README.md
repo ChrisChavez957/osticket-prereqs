@@ -59,11 +59,12 @@ In the Remote Desktop Connection app, we can use our VMs ip address to get logge
 
 
 ![image](https://github.com/user-attachments/assets/2a070c96-e69d-48f5-86a7-376203ea42e2)
+![image](https://github.com/user-attachments/assets/a7592ea1-21e1-495b-8b37-6bb162c9ae6b)
 
 
 <p>
 </p>
 <p>
-In the Remote Desktop Connection app, we can use our VMs ip address to get logged in. We must use our login credentials when creating the VM to login to our virtual machine. 
+Within the virtual machine we will begin the installation for osTicket, to begin, in our downloads folder we will download the ZIP file for osTicket and install and extract the files to the desktop.  
 </p>
 <br />
