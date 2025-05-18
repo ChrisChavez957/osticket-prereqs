@@ -80,7 +80,7 @@ Within the virtual machine we will begin the installation for osTicket, to begin
 <p>
 Now we must Install / Enable IIS in Windows WITH CGI
 
-To do this we open Control Panel -> 
+To do this we open Control Panel -> Programs -> Programs and Features -> Turn Windows features on or off -> Internet Information Systems -> Worldwide Web Services -> Application Development Features -> Enable file [CGI] -> Click OK -> DONE
   
 </p>
 <br />
