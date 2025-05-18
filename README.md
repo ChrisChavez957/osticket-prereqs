@@ -195,3 +195,19 @@ Password: root
 <br />
 
 
+![image](https://github.com/user-attachments/assets/0c8fade1-732d-4efd-b7c5-3d007fe4cab4)
+
+<p>
+</p>
+<p>
+
+Open IIS as an Admin
+
+
+
+</p>
+<br />
+
+
+
+
