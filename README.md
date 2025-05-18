@@ -145,3 +145,14 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <br />
 
+
+![image](https://github.com/user-attachments/assets/8aa94218-628a-4d54-923b-501cfcf4a41f)
+
+<p>
+</p>
+<p>
+
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+
+</p>
+<br />
