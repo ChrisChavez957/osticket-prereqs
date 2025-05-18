@@ -114,3 +114,17 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 </p>
 <br />
 
+
+
+![image](https://github.com/user-attachments/assets/baabb01e-7c09-4c2b-875a-819c981bb657)
+
+
+<p>
+</p>
+<p>
+
+Create the directory C:\PHP
+
+</p>
+<br />
+
