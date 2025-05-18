@@ -99,3 +99,18 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/39b8798e-2e01-4f6a-951f-2707e4138c89)
+
+
+
+<p>
+</p>
+<p>
+
+From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+</p>
+<br />
+
