@@ -208,6 +208,15 @@ Open IIS as an Admin
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/c9981f1c-0899-4e58-bb84-cc5056fc2ea5)
 
 
+<p>
+</p>
+<p>
 
+Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+
+
+</p>
+<br />
