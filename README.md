@@ -220,3 +220,21 @@ Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/9ab0aade-f2f0-4119-8d54-f6a5b64b0118)
+
+![image](https://github.com/user-attachments/assets/8a077649-ef64-4826-943c-309261df864a)
+
+
+<p>
+</p>
+<p>
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+
+</p>
+<br />
+
+
