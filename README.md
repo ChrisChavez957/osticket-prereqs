@@ -68,3 +68,19 @@ In the Remote Desktop Connection app, we can use our VMs ip address to get logge
 Within the virtual machine we will begin the installation for osTicket, to begin, in our downloads folder we will download the ZIP file for osTicket and install and extract the files to the desktop.  
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/6fec5e31-3c4c-4c9f-b777-06e577897147)
+![image](https://github.com/user-attachments/assets/1609b67f-999b-4c7e-bdd7-28cf46bc1674)
+
+
+
+<p>
+</p>
+<p>
+Now we must Install / Enable IIS in Windows WITH CGI
+
+To do this we open Control Panel -> 
+  
+</p>
+<br />
