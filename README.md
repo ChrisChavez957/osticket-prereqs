@@ -56,3 +56,14 @@ Once our VM (virtual machine) is created, we must get the ip address and open it
 In the Remote Desktop Connection app, we can use our VMs ip address to get logged in. We must use our login credentials when creating the VM to login to our virtual machine. 
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/2a070c96-e69d-48f5-86a7-376203ea42e2)
+
+
+<p>
+</p>
+<p>
+In the Remote Desktop Connection app, we can use our VMs ip address to get logged in. We must use our login credentials when creating the VM to login to our virtual machine. 
+</p>
+<br />
