@@ -128,3 +128,20 @@ Create the directory C:\PHP
 </p>
 <br />
 
+
+
+
+![image](https://github.com/user-attachments/assets/fe8349de-e2db-4099-bf81-5fe9c57c5582)
+
+
+
+
+<p>
+</p>
+<p>
+
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
+</p>
+<br />
+
