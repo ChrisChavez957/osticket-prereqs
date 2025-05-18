@@ -84,3 +84,18 @@ To do this we open Control Panel -> Programs -> Programs and Features -> Turn Wi
   
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/07136815-5c14-4b95-8f08-8defa7234609)
+
+
+
+
+<p>
+</p>
+<p>
+
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+</p>
+<br />
