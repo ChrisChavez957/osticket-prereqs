@@ -291,3 +291,19 @@ Now, go back to ISS and open Sites -> Default Web site -> osTicket -> and then d
 
 ![image](https://github.com/user-attachments/assets/65d660d1-727b-4f13-bc08-834987c86bc7)
 
+
+
+
+
+<p>
+</p>
+<p>
+
+Now click "Enable or disable an extentions" on the bottom  
+
+</p>
+<br />
+
+
+![image](https://github.com/user-attachments/assets/aaa540f3-f427-45e7-8d11-5b45d91b5d20)
+
