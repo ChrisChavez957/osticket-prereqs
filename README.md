@@ -275,3 +275,19 @@ Note that the osTicket site shows up, you will also notice on the bottom that so
 <br />
 
 ![image](https://github.com/user-attachments/assets/71ab8616-9cfa-4303-b1b3-baf590f7b9db)
+
+
+
+
+
+<p>
+</p>
+<p>
+
+Now, go back to ISS and open Sites -> Default Web site -> osTicket -> and then double-click PHP Manager 
+
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/65d660d1-727b-4f13-bc08-834987c86bc7)
+
