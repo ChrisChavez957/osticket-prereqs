@@ -264,3 +264,14 @@ On the right, click “Browse *:80”
 
 ![image](https://github.com/user-attachments/assets/5ca3ea00-eab1-4cfb-9426-6f9a6fb3b9ae)
 
+
+<p>
+</p>
+<p>
+
+Note that the osTicket site shows up, you will also notice on the bottom that some extensions are not available. We will begin to start enabling some permissions. 
+
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/71ab8616-9cfa-4303-b1b3-baf590f7b9db)
