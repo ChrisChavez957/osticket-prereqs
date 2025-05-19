@@ -18,6 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Create a virtual machine using Azure 
 - Enable internet information services 
 - Install web platform installer 
 - Install MySQL
@@ -26,7 +27,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/user-attachments/assets/968c85f7-f138-4911-85c0-d4a002c62c62)
 
 <p>
 </p>
@@ -35,8 +35,7 @@ To begin installation for osTicket, we must first create an Azure virtual machin
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/41af5327-5730-4207-8712-fe6a6ec1a4fe)
+![image](https://github.com/user-attachments/assets/968c85f7-f138-4911-85c0-d4a002c62c62)
 
 
 <p>
@@ -47,7 +46,8 @@ Once our VM (virtual machine) is created, we must get the ip address and open it
 <br />
 
 
-![image](https://github.com/user-attachments/assets/98fdcea2-e514-4a5e-b0a2-d2a786aecc0f)
+![image](https://github.com/user-attachments/assets/41af5327-5730-4207-8712-fe6a6ec1a4fe)
+
 
 
 <p>
@@ -57,9 +57,7 @@ In the Remote Desktop Connection app, we can use our VMs ip address to get logge
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/2a070c96-e69d-48f5-86a7-376203ea42e2)
-![image](https://github.com/user-attachments/assets/a7592ea1-21e1-495b-8b37-6bb162c9ae6b)
+![image](https://github.com/user-attachments/assets/98fdcea2-e514-4a5e-b0a2-d2a786aecc0f)
 
 
 <p>
@@ -70,8 +68,8 @@ Within the virtual machine we will begin the installation for osTicket, to begin
 <br />
 
 
-![image](https://github.com/user-attachments/assets/6fec5e31-3c4c-4c9f-b777-06e577897147)
-![image](https://github.com/user-attachments/assets/1609b67f-999b-4c7e-bdd7-28cf46bc1674)
+![image](https://github.com/user-attachments/assets/2a070c96-e69d-48f5-86a7-376203ea42e2)
+![image](https://github.com/user-attachments/assets/a7592ea1-21e1-495b-8b37-6bb162c9ae6b)
 
 
 
@@ -85,9 +83,8 @@ To do this we open Control Panel -> Programs -> Programs and Features -> Turn Wi
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/07136815-5c14-4b95-8f08-8defa7234609)
-
+![image](https://github.com/user-attachments/assets/6fec5e31-3c4c-4c9f-b777-06e577897147)
+![image](https://github.com/user-attachments/assets/1609b67f-999b-4c7e-bdd7-28cf46bc1674)
 
 
 
@@ -101,7 +98,9 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 <br />
 
 
-![image](https://github.com/user-attachments/assets/39b8798e-2e01-4f6a-951f-2707e4138c89)
+
+![image](https://github.com/user-attachments/assets/07136815-5c14-4b95-8f08-8defa7234609)
+
 
 
 
@@ -116,7 +115,8 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 
 
 
-![image](https://github.com/user-attachments/assets/baabb01e-7c09-4c2b-875a-819c981bb657)
+![image](https://github.com/user-attachments/assets/39b8798e-2e01-4f6a-951f-2707e4138c89)
+
 
 
 <p>
@@ -128,11 +128,7 @@ Create the directory C:\PHP
 </p>
 <br />
 
-
-
-
-![image](https://github.com/user-attachments/assets/fe8349de-e2db-4099-bf81-5fe9c57c5582)
-
+![image](https://github.com/user-attachments/assets/baabb01e-7c09-4c2b-875a-819c981bb657)
 
 
 
@@ -146,7 +142,9 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 <br />
 
 
-![image](https://github.com/user-attachments/assets/8aa94218-628a-4d54-923b-501cfcf4a41f)
+![image](https://github.com/user-attachments/assets/fe8349de-e2db-4099-bf81-5fe9c57c5582)
+
+
 
 <p>
 </p>
@@ -158,7 +156,8 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 <br />
 
 
-![image](https://github.com/user-attachments/assets/10548095-1063-4729-a70b-75c31df8d8f7)
+
+![image](https://github.com/user-attachments/assets/8aa94218-628a-4d54-923b-501cfcf4a41f)
 
 
 <p>
@@ -177,7 +176,8 @@ Password: root
 <br />
 
 
-![image](https://github.com/user-attachments/assets/2e6bc968-4630-43a4-94fd-1d988f2d4288)
+![image](https://github.com/user-attachments/assets/10548095-1063-4729-a70b-75c31df8d8f7)
+
 
 
 <p>
@@ -194,8 +194,8 @@ Password: root
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/2e6bc968-4630-43a4-94fd-1d988f2d4288)
 
-![image](https://github.com/user-attachments/assets/0c8fade1-732d-4efd-b7c5-3d007fe4cab4)
 
 <p>
 </p>
@@ -208,8 +208,7 @@ Open IIS as an Admin
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/c9981f1c-0899-4e58-bb84-cc5056fc2ea5)
-
+![image](https://github.com/user-attachments/assets/0c8fade1-732d-4efd-b7c5-3d007fe4cab4)
 
 <p>
 </p>
@@ -221,10 +220,7 @@ Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 </p>
 <br />
 
-
-![image](https://github.com/user-attachments/assets/9ab0aade-f2f0-4119-8d54-f6a5b64b0118)
-
-![image](https://github.com/user-attachments/assets/8a077649-ef64-4826-943c-309261df864a)
+![image](https://github.com/user-attachments/assets/c9981f1c-0899-4e58-bb84-cc5056fc2ea5)
 
 
 <p>
@@ -237,8 +233,9 @@ Reload IIS (Open IIS, Stop and Start the server)
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/9ab0aade-f2f0-4119-8d54-f6a5b64b0118)
 
-![image](https://github.com/user-attachments/assets/a4b41c65-64ba-4a35-98d3-59bddfdc520f)
+![image](https://github.com/user-attachments/assets/8a077649-ef64-4826-943c-309261df864a)
 
 
 <p>
@@ -254,7 +251,9 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <br />
 
 
-![image](https://github.com/user-attachments/assets/5ca3ea00-eab1-4cfb-9426-6f9a6fb3b9ae)
+![image](https://github.com/user-attachments/assets/a4b41c65-64ba-4a35-98d3-59bddfdc520f)
+
+
 
 <p>
 </p>
@@ -267,3 +266,6 @@ On the right, click “Browse *:80”
 
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/5ca3ea00-eab1-4cfb-9426-6f9a6fb3b9ae)
+
