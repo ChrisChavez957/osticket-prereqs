@@ -31,7 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-To begin installation for osTicket, we must first create an Azure virtual machine using Windows 10 and 4 vCPUs. 
+  
+- To begin installation for osTicket, we must first create an Azure virtual machine using Windows 10 and 4 vCPUs. 
+
 </p>
 <br />
 
@@ -41,7 +43,9 @@ To begin installation for osTicket, we must first create an Azure virtual machin
 <p>
 </p>
 <p>
-Once our VM (virtual machine) is created, we must get the ip address and open it in the Remote Desktop Connection app on Windows. 
+  
+- Once our VM (virtual machine) is created, we must get the ip address and open it in the Remote Desktop Connection app on Windows. 
+
 </p>
 <br />
 
@@ -53,7 +57,9 @@ Once our VM (virtual machine) is created, we must get the ip address and open it
 <p>
 </p>
 <p>
-In the Remote Desktop Connection app, we can use our VMs ip address to get logged in. We must use our login credentials when creating the VM to login to our virtual machine. 
+  
+- In the Remote Desktop Connection app, we can use our VMs ip address to get logged in. We must use our login credentials when creating the VM to login to our virtual machine. 
+
 </p>
 <br />
 
@@ -63,7 +69,9 @@ In the Remote Desktop Connection app, we can use our VMs ip address to get logge
 <p>
 </p>
 <p>
-Within the virtual machine we will begin the installation for osTicket, to begin, in our downloads folder we will download the ZIP file for osTicket and install and extract the files to the desktop.  
+  
+- Within the virtual machine we will begin the installation for osTicket, to begin, in our downloads folder we will download the ZIP file for osTicket and install and extract the files to the desktop.  
+
 </p>
 <br />
 
@@ -76,9 +84,9 @@ Within the virtual machine we will begin the installation for osTicket, to begin
 <p>
 </p>
 <p>
-Now we must Install / Enable IIS in Windows WITH CGI
+- Now we must Install / Enable IIS in Windows WITH CGI
 
-To do this we open Control Panel -> Programs -> Programs and Features -> Turn Windows features on or off -> Internet Information Systems -> Worldwide Web Services -> Application Development Features -> Enable file [CGI] -> Click OK -> DONE
+- To do this we open Control Panel -> Programs -> Programs and Features -> Turn Windows features on or off -> Internet Information Systems -> Worldwide Web Services -> Application Development Features -> Enable file [CGI] -> Click OK -> DONE
   
 </p>
 <br />
@@ -92,7 +100,7 @@ To do this we open Control Panel -> Programs -> Programs and Features -> Turn Wi
 </p>
 <p>
 
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 </p>
 <br />
@@ -108,7 +116,7 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 </p>
 <p>
 
-From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+- From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 </p>
 <br />
@@ -123,7 +131,7 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 </p>
 <p>
 
-Create the directory C:\PHP
+- Create the directory C:\PHP
 
 </p>
 <br />
@@ -136,7 +144,7 @@ Create the directory C:\PHP
 </p>
 <p>
 
-From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+- From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 </p>
 <br />
@@ -150,7 +158,7 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <p>
 
-From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+- From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
 </p>
 <br />
@@ -164,7 +172,7 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 </p>
 <p>
 
-From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 
 </p>
@@ -179,11 +187,11 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <p>
 
-Typical Setup ->
-Launch Configuration Wizard (after install) ->
-Standard Configuration ->
-Username: root
-Password: root
+- Typical Setup ->
+- Launch Configuration Wizard (after install) ->
+- Standard Configuration ->
+- Username: root
+- Password: root
 
 
 </p>
@@ -196,7 +204,7 @@ Password: root
 </p>
 <p>
 
-Open IIS as an Admin
+- Open IIS as an Admin
 
 
 
@@ -209,7 +217,7 @@ Open IIS as an Admin
 </p>
 <p>
 
-Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+- Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
 
 </p>
@@ -222,7 +230,7 @@ Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 </p>
 <p>
 
-Reload IIS (Open IIS, Stop and Start the server)
+- Reload IIS (Open IIS, Stop and Start the server)
 
 
 </p>
@@ -237,8 +245,8 @@ Reload IIS (Open IIS, Stop and Start the server)
 </p>
 <p>
 
-Install osTicket v1.15.8
-From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+- Install osTicket v1.15.8
+- From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
 
@@ -254,10 +262,10 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 </p>
 <p>
 
-Reload IIS (Open IIS, Stop and Start the server)
+- Reload IIS (Open IIS, Stop and Start the server)
 
-Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
+- Go to sites -> Default -> osTicket
+- On the right, click “Browse *:80”
 
 </p>
 <br />
@@ -269,7 +277,7 @@ On the right, click “Browse *:80”
 </p>
 <p>
 
-Note that the osTicket site shows up, you will also notice on the bottom that some extensions are not available. We will begin to start enabling some permissions. 
+- Note that the osTicket site shows up, you will also notice on the bottom that some extensions are not available. We will begin to start enabling some permissions. 
 
 </p>
 <br />
@@ -284,7 +292,7 @@ Note that the osTicket site shows up, you will also notice on the bottom that so
 </p>
 <p>
 
-Now, go back to ISS and open Sites -> Default Web site -> osTicket -> and then double-click PHP Manager 
+- Now, go back to ISS and open Sites -> Default Web site -> osTicket -> and then double-click PHP Manager 
 
 </p>
 <br />
@@ -299,11 +307,34 @@ Now, go back to ISS and open Sites -> Default Web site -> osTicket -> and then d
 </p>
 <p>
 
-Now click "Enable or disable an extentions" on the bottom  
+- Now click "Enable or disable an extentions" on the bottom  
 
 </p>
 <br />
 
 
 ![image](https://github.com/user-attachments/assets/aaa540f3-f427-45e7-8d11-5b45d91b5d20)
+
+
+
+
+
+
+<p>
+</p>
+<p>
+
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+- Refresh the osTicket site in your browser, observe the changes
+
+
+</p>
+<br />
+
+
+
+![image](https://github.com/user-attachments/assets/dd8d15cd-eecb-4313-88c0-ffc9d422557e)
+
 
