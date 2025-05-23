@@ -338,3 +338,26 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 ![image](https://github.com/user-attachments/assets/dd8d15cd-eecb-4313-88c0-ffc9d422557e)
 
 
+
+
+
+<p>
+</p>
+<p>
+
+Now, we must 
+- Rename: ost-config.php
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
+
+</p>
+<br />
+
+
+
+![image](https://github.com/user-attachments/assets/4c26a55a-e562-4d33-9a5f-8fb104161e3f)
+
+
+
