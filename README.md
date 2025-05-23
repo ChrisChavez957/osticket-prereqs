@@ -436,4 +436,25 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- Next, from the “osTicket-Installation-Files” folder, install HeidiSQL.
+
+
+</p>
+<br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/510707fe-99bc-4e04-b4f9-d55bd2220596)
+
+
+
+
+
+
 
