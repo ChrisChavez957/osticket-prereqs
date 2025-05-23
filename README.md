@@ -357,7 +357,32 @@ Now, we must
 
 
 
+
 ![image](https://github.com/user-attachments/assets/4c26a55a-e562-4d33-9a5f-8fb104161e3f)
+
+
+
+
+
+<p>
+</p>
+<p>
+
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+
+
+
+
+</p>
+<br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/c6e7c0d0-305b-4b92-b5de-ee4045e52215)
+
 
 
 
