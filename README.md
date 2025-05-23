@@ -386,3 +386,54 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+- Now we give access to "Everyone" and then enable the permissions!
+
+
+
+
+</p>
+<br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/815787c9-dd27-442e-9df6-df06fe8ab315)
+
+
+
+
+
+
+
+
+
+<p>
+</p>
+<p>
+
+- Now we reload the osticket website and fill in all of our personal information
+
+
+
+
+</p>
+<br />
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/930f07bd-885d-44aa-9ae9-4af439dd3372)
+
+
+
+
+
+
