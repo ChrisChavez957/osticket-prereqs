@@ -455,6 +455,46 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- Open HeidiSQL, click new on the bottom left, enter the password, the password is "root", and then hit open 
+
+
+</p>
+<br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/e44af0e1-3d6a-469c-9545-ac241f3ae693)
+
+
+
+
+
+
+<p>
+</p>
+<p>
+
+
+- Right click (Unnamed) -> (Create new) -> click (Database) 
+
+
+</p>
+<br />
+
+
+![image](https://github.com/user-attachments/assets/7c41b570-1638-4c59-ad11-6f2b66cc92c7)
+
+
+
+
+
+
 
 
 
