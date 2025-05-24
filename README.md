@@ -494,6 +494,27 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- In the name section type "osTicket" exactly this way and hit OK 
+
+</p>
+<br />
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/83708af1-5843-4d85-981d-3f21dfbab8d7)
+
+
+
+
+
+
 
 
 
