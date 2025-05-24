@@ -513,6 +513,24 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- Now we head back to the osTicket site and input our new login information for the database settings
+
+</p>
+<br />
+
+
+
+![image](https://github.com/user-attachments/assets/eb9e6864-d26b-4e31-9d71-dd8f9c556e7e)
+
+
+
+
+
 
 
 
