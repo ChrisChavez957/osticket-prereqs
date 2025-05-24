@@ -546,6 +546,22 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- Finally! OsTicket has been installed!
+
+</p>
+<br />
+
+
+
+![image](https://github.com/user-attachments/assets/a4116771-52df-43b0-ac27-6b7f3225dede)
+
+
+
 
 
 
