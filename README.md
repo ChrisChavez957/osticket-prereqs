@@ -529,6 +529,24 @@ New Permissions -> Everyone -> All
 
 
 
+<p>
+</p>
+<p>
+
+
+- Now hit install!!
+
+</p>
+<br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/c988f109-9556-4154-b0e1-f4f02a047055)
+
+
+
+
 
 
 
